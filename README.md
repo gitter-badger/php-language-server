@@ -1,5 +1,7 @@
 # PHP Language Server
 
+[![Join the chat at https://gitter.im/felixfbecker/php-language-server](https://badges.gitter.im/felixfbecker/php-language-server.svg)](https://gitter.im/felixfbecker/php-language-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Version](https://img.shields.io/packagist/v/felixfbecker/language-server.svg)](https://packagist.org/packages/felixfbecker/language-server)
 [![Build Status](https://travis-ci.org/felixfbecker/php-language-server.svg?branch=master)](https://travis-ci.org/felixfbecker/php-language-server)
 [![Coverage](https://codecov.io/gh/felixfbecker/php-language-server/branch/master/graph/badge.svg)](https://codecov.io/gh/felixfbecker/php-language-server)
